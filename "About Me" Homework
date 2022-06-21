@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>Mustafa T.</h1>
+  <hr>
+  <h3>Hakkımda</h3>
+  <p>
+    Adım Mustafa. 16 yaşındayım. Lise 2 öğrencisiyim.
+  </p>
+  <hr>
+  <h3>İlgi Alanlarım</h3>
+  <ol>
+    <li><strong>Filmler</strong>
+      <ul>
+        <li><a href="https://www.imdb.com/title/tt0816692/">Yıldızlararası(Interstellar)</a></li>
+        <li>Wall-E</li>
+        <li>Efsane</li>
+      </ul>
+    </li>
+    <li><strong>Diziler</strong>
+      <ul>
+        <li><a href="https://www.imdb.com/title/tt2531336/?ref_=nv_sr_srsg_0">Lupin</a></li>
+        <li>The Boys</li>
+        <li>The Flash</li>
+      </ul>
+    </li>
+  </ol>
+
+  <hr>
+
+  <h2>Lupin</h2>
+  <p>Efsanevi bir dizidir.</p>
+  <img src="https://tr.web.img3.acsta.net/pictures/20/12/02/16/22/0450183.jpg" alt="lupin" height="600" width="400">
+
+
+
+
+
+
+
+  
+</body>
+</html>
